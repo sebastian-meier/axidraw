@@ -1,0 +1,19 @@
+{
+  "name": "sketches",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "penplot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@thi.ng/axidraw": "^0.4.0",
+    "@thi.ng/date": "^2.4.1",
+    "canvas-sketch": "^0.7.6",
+    "canvas-sketch-util": "^1.10.0"
+  }
+}
